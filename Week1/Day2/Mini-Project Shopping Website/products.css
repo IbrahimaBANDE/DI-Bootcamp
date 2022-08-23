@@ -1,0 +1,123 @@
+.ligne{
+    display: block;
+    width: 100%;
+    height: 300%;
+   
+}
+
+.div1{
+    display: inline-block;
+    width: 22%;
+    height: 40px;
+    text-align: center;
+    margin:0px 0px 15px 15px;
+}
+
+.colone {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+p{
+    font-size: 15px;
+}
+
+img{
+    width: 100%;
+    height: 200px;
+}
+
+#span1{
+    color: green;
+    font-size: 16px;
+    
+}
+
+#span2{
+    text-decoration:line-through;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+a{
+    font-size: 15px;
+    text-align: center;
+    color:gray;
+    border: 1px solid gray;
+    text-decoration: none;
+    padding: 6px;
+}
+
+.div00{
+    width: 100%;
+    height: 600%;
+    float: left;
+    background-image: url(image1.png);
+    background-size: cover;
+    font-size: 10px;
+    font-weight: 800;
+}
+
+.div01{
+    width: 100%;
+    height: 600%;
+    float: left;
+    background-image: url(image2.png);
+    background-size: cover;
+    font-size: 10px;
+    font-weight: 800;
+}
+
+.div02{
+    width: 100%;
+    height: 600%;
+    float: left;
+    background-image: url(image3.png);
+    background-size: cover;
+    font-size: 10px;
+    font-weight: 800;
+}
+
+.div03{
+    width: 100%;
+    height: 600%;
+    float: left;
+    background-image: url(image4.png);
+    background-size: cover;
+    font-size: 10px;
+    font-weight: 800;
+}
+
+.new{
+    margin: 12px;
+    float: left;
+    color: white;
+    background-color: green;
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 80%;
+    margin-left: 5px;
+    cursor:default;0 
+    
+}
+
+.pour{
+    margin-top: 12px;
+    float: left;
+    color: white;
+    background-color: red;
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 80%;
+    margin-left: 55px;
+    cursor:default
+
+}
+
+    
+    
